@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj": {}
+    "C:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj": {}
   },
   "projects": {
-    "c:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj": {
+    "C:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj",
+        "projectUniqueName": "C:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj",
         "projectName": "InterfaceOne",
-        "projectPath": "c:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj",
+        "projectPath": "C:\\dev\\Udemy\\InterfaceOne\\InterfaceOne.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "c:\\dev\\Udemy\\InterfaceOne\\obj\\",
+        "outputPath": "C:\\dev\\Udemy\\InterfaceOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

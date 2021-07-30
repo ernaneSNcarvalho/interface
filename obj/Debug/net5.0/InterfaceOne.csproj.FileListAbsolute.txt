@@ -1,0 +1,16 @@
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\InterfaceOne.exe
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\InterfaceOne.deps.json
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\InterfaceOne.runtimeconfig.json
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\InterfaceOne.runtimeconfig.dev.json
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\InterfaceOne.dll
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\ref\InterfaceOne.dll
+C:\dev\Udemy\InterfaceOne\bin\Debug\net5.0\InterfaceOne.pdb
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.csproj.AssemblyReference.cache
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.AssemblyInfoInputs.cache
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.AssemblyInfo.cs
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.csproj.CoreCompileInputs.cache
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.dll
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\ref\InterfaceOne.dll
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.pdb
+C:\dev\Udemy\InterfaceOne\obj\Debug\net5.0\InterfaceOne.genruntimeconfig.cache
